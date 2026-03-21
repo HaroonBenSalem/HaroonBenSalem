@@ -1,18 +1,20 @@
-<h1 align="center">Hi, I'm Haroon ben Salem</h1>
+<h1 align="center">Hi, I'm Haroon ben Salem 👋</h1>
 
 <p align="center">
-  Backend Developer · Building reliable systems, one endpoint at a time.
+  Computer Science Student · Aspiring Backend Developer · Looking for Ausbildung in Germany 🇩🇪
 </p>
 
 ---
 
 ## About Me
 
-I'm a backend developer focused on building clean, scalable, and maintainable server-side applications. I care about good architecture, well-structured databases, and APIs that just work.
+I'm a Computer Science student at the **University of Sfax**, Tunisia, passionate about backend development and building real-world projects from scratch.
 
-- 🔭 Currently working on **[Task Manager](#featured-project--task-manager)**
-- 🧠 Passionate about clean code and backend architecture
-- 🌍 Based in Tunisia
+- 🎓 Studying Computer Science @ University of Sfax
+- 🔭 Currently building **[Task Manager](#featured-project--task-manager)** — a task management web app
+- 🌱 Currently learning **Django · REST APIs · Docker**
+- 🇩🇪 Looking for an **Ausbildung (Anwendungsentwicklung)** in Germany
+- 💡 I enjoy clean architecture, well-structured databases, and writing code that makes sense
 
 ---
 
@@ -32,6 +34,12 @@ I'm a backend developer focused on building clean, scalable, and maintainable se
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+**Currently Learning**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
+
 ---
 
 ## Featured Project · Task Manager
@@ -46,6 +54,15 @@ A full-featured web application to create, organize, and track tasks — with a 
 
 ---
 
+## Goals for 2025
+
+- 🚀 Ship my first Django REST API project
+- 🐳 Containerize a project end-to-end with Docker
+- 🇩🇪 Secure an Ausbildung position in Germany
+- 📂 Build a strong, documented GitHub portfolio
+
+---
+
 <p align="center">
-  <i>Open to collaborations and backend opportunities.</i>
+  <i>Open to Ausbildung opportunities in Germany · Let's connect!</i>
 </p>
