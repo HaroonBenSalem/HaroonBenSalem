@@ -11,7 +11,6 @@
 I'm a Computer Science student at the **University of Sfax**, Tunisia, passionate about backend development and building real-world projects from scratch.
 
 - 🎓 Studying Computer Science @ University of Sfax
-- 🔭 Currently building **[Task Manager](#featured-project--task-manager)** — a task management web app
 - 🌱 Currently learning **Django · REST APIs · Docker**
 - 🇩🇪 Looking for an **Ausbildung (Anwendungsentwicklung)** in Germany
 - 💡 I enjoy clean architecture, well-structured databases, and writing code that makes sense
@@ -48,18 +47,15 @@ I'm a Computer Science student at the **University of Sfax**, Tunisia, passionat
 
 A full-featured web application to create, organize, and track tasks — with a clean interface backed by a solid relational data model.
 
-**Stack:** Python · PostgreSQL · HTML
+**Stack:** Python · PostgreSQL · HTML · CSS
 
-🔗 [View Repository](#) <!-- Replace # with your actual repo link -->
+🔗 [View Repository](https://github.com/HaroonBenSalem/Taski.git)
 
 ---
 
-## Goals for 2025
+## Goals for 2026
 
-- 🚀 Ship my first Django REST API project
-- 🐳 Containerize a project end-to-end with Docker
 - 🇩🇪 Secure an Ausbildung position in Germany
-- 📂 Build a strong, documented GitHub portfolio
 
 ---
 
