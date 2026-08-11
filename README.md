@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Haroon ben Salem 👋</h1>
 
 <p align="center">
-  Computer Science Student · Aspiring Backend Developer · Looking for Ausbildung in Germany 🇩🇪
+  Computer Science Student · Aspiring Backend Developer
 </p>
 
 ---
@@ -11,8 +11,7 @@
 I'm a Computer Science student at the **University of Sfax**, Tunisia, passionate about backend development and building real-world projects from scratch.
 
 - 🎓 Studying Computer Science @ University of Sfax
-- 🌱 Currently learning **Django · REST APIs · Docker**
-- 🇩🇪 Looking for an **Ausbildung (Anwendungsentwicklung)** in Germany
+- 🌱 Currently learning **Spring-boot · REST APIs · Docker**
 - 💡 I enjoy clean architecture, well-structured databases, and writing code that makes sense
 
 ---
@@ -33,11 +32,6 @@ I'm a Computer Science student at the **University of Sfax**, Tunisia, passionat
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Currently Learning**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
@@ -51,14 +45,9 @@ A full-featured web application to create, organize, and track tasks — with a 
 
 🔗 [View Repository](https://github.com/HaroonBenSalem/Taski.git)
 
----
-
-## Goals for 2026
-
-- 🇩🇪 Secure an Ausbildung position in Germany
 
 ---
 
 <p align="center">
-  <i>Open to Ausbildung opportunities in Germany · Let's connect!</i>
+  <i>open to an internship opportunity in Germany</i>
 </p>
